@@ -37,4 +37,4 @@
 </p>
 
 ### 收盘统计 结算 2030u +180u +10.24%
-![](/screenshot/20241117.jpg)
+<img src="./screenshot/20241117.jpg" width="300" height="500" />
